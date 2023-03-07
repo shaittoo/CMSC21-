@@ -7,4 +7,4 @@ x = 43.2892f;   //assign the value of x to 43.2892 as a float
 y = 5527.0f;    //assign the value of y to 5527.0 as a float
 
 printf("i = %d, j = %d, x = %f, y = %f\n", i, j, x, y); //displays the values of i, j, x, and y
-														//with %d specifier as integer and %f specifier as float
+							//with %d specifier as integer and %f specifier as float
